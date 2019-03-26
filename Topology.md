@@ -2,8 +2,17 @@
 graph TB
 LB[Load Balancer]
 App1[App Server 1]
-App2[A
+App2[App Server 2]
+DB1[DB Server 1]
+DB2[DB Server 2]
+
+LB --> App1
+LB --> App2
+App1 --> DB1
+App1 --> DB2
+App2 --> DB1
+App2 --> DB2
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTM2NzEzOV19
+eyJoaXN0b3J5IjpbNzI1OTc3MTI4XX0=
 -->
