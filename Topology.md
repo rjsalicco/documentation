@@ -1,7 +1,5 @@
 ```mermaid
-var callback = function(){
-	alert('A callback was triggered');
-}
+
 
 graph TB
 LB[Load Balancer]
@@ -24,6 +22,6 @@ App2 --> DB2
 App2 --> DB3
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDk3ODQwNiwxNTI2MTg1NDI1LDIxMz
-c1MDc5MzgsLTI4NTkyODY1Niw3MjU5NzcxMjhdfQ==
+eyJoaXN0b3J5IjpbNDA3MDI5MTgyLDE1MjYxODU0MjUsMjEzNz
+UwNzkzOCwtMjg1OTI4NjU2LDcyNTk3NzEyOF19
 -->
