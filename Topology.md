@@ -1,3 +1,9 @@
+<script>
+    var callback = function(){
+        alert('A callback was triggered');
+    }
+<script>
+
 ```mermaid
 graph TB
 LB[Load Balancer]
@@ -20,6 +26,6 @@ App2 --> DB2
 App2 --> DB3
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMDIzODc5LDIxMzc1MDc5MzgsLTI4NT
-kyODY1Niw3MjU5NzcxMjhdfQ==
+eyJoaXN0b3J5IjpbMTUyNjE4NTQyNSwyMTM3NTA3OTM4LC0yOD
+U5Mjg2NTYsNzI1OTc3MTI4XX0=
 -->
