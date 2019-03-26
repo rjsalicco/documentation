@@ -1,3 +1,10 @@
+```
+<script>
+    var callback = function(){
+        alert('A callback was triggered');
+    }
+<script>
+```
 ```mermaid
 
 
@@ -22,6 +29,6 @@ App2 --> DB2
 App2 --> DB3
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MDI5MTgyLDE1MjYxODU0MjUsMjEzNz
-UwNzkzOCwtMjg1OTI4NjU2LDcyNTk3NzEyOF19
+eyJoaXN0b3J5IjpbLTIwNDE2NjEzMDIsMTUyNjE4NTQyNSwyMT
+M3NTA3OTM4LC0yODU5Mjg2NTYsNzI1OTc3MTI4XX0=
 -->
