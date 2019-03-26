@@ -13,8 +13,8 @@ DB1[DB Server 1]
 DB2[DB Server 2]
 DB3[DB Server 3]
 
-click App1 callback "tpamulapp01"
-click App2 callback "tpamulapp02"
+click App1 callback
+click App2 "http://google.com"
 
 LB --> App1
 LB --> App2
@@ -26,6 +26,6 @@ App2 --> DB2
 App2 --> DB3
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTQyNTc3MSwxNTI2MTg1NDI1LDIxMz
+eyJoaXN0b3J5IjpbLTQzMTQ5MDQxOSwxNTI2MTg1NDI1LDIxMz
 c1MDc5MzgsLTI4NTkyODY1Niw3MjU5NzcxMjhdfQ==
 -->
