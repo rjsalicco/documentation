@@ -1,13 +1,10 @@
-```
 <script>
-    var callback = function(){
-        alert('A callback was triggered');
-    }
-<script>
-```
+	var callback = function() {
+		alert('A callback was triggered');
+	}
+</script>
+
 ```mermaid
-
-
 graph TB
 LB[Load Balancer]
 App1[App Server 1]
@@ -29,6 +26,6 @@ App2 --> DB2
 App2 --> DB3
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE2NjEzMDIsMTUyNjE4NTQyNSwyMT
-M3NTA3OTM4LC0yODU5Mjg2NTYsNzI1OTc3MTI4XX0=
+eyJoaXN0b3J5IjpbMTk2MTQyNTc3MSwxNTI2MTg1NDI1LDIxMz
+c1MDc5MzgsLTI4NTkyODY1Niw3MjU5NzcxMjhdfQ==
 -->
